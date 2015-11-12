@@ -1,5 +1,5 @@
 # pydev
-Python写的脚本工具
+Python tools
 
 ****
 
